@@ -57,25 +57,8 @@ This relational structure enables in-depth analysis of **funding flows, project 
 
 ---
 
-## 📈 Business Value Delivered
-- Provides transparency into funding and resource allocation
-- Identifies high-impact assignments and funding patterns
-- Supports evidence-based decision-making for nonprofit strategy
-- Demonstrates strong SQL querying and analytical thinking
-
----
-
 ## 🚀 Next Steps
 - Create advanced KPI queries using window functions
 - Perform donor segmentation and cohort analysis
 - Build views or materialized views for recurring analyses
 - Extend analysis with dashboards or BI integration
-
----
-
-## 📌 Why This Project Matters
-This project demonstrates:
-- Real-world SQL problem-solving skills
-- Ability to work with relational databases
-- Business- and impact-oriented analytical thinking
-- Experience analyzing multi-year historical data
